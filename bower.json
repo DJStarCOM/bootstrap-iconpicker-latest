@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-iconpicker",
+  "name": "bootstrap-iconpicker-latest",
   "description": "Simple Iconpicker for Bootstrap 3.x and 4.x",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "keywords": [
     "Bootstrap",
     "Iconpicker",
@@ -22,11 +22,16 @@
       "name": "Victor Valencia Rico",
       "email": "valencia_vik@hotmail.com",
       "homepage": "https://github.com/victor-valencia"
+    },
+    {
+      "name": "Stanislav Tsepeniuk",
+      "email": "s.tsepeniuk@gmail.com",
+      "homepage": "https://github.com/DJStarCOM"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://victor-valencia.github.io/bootstrap-iconpicker"
+    "url": "https://github.com/DJStarCOM/bootstrap-iconpicker-lates"
   },
   "main": [
     "dist/css/bootstrap-iconpicker.css",

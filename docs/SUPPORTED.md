@@ -1,13 +1,13 @@
-[![Build Status](https://travis-ci.org/victor-valencia/bootstrap-iconpicker.svg?branch=master)](https://travis-ci.org/victor-valencia/bootstrap-iconpicker)
-[![Code Climate](https://codeclimate.com/github/victor-valencia/bootstrap-iconpicker/badges/gpa.svg)](https://codeclimate.com/github/victor-valencia/bootstrap-iconpicker)
-[![npm](http://img.shields.io/npm/v/bootstrap-iconpicker.svg)](https://npmjs.org/package/bootstrap-iconpicker)
-[![Bower](http://img.shields.io/bower/v/bootstrap-iconpicker.svg)](http://bower.io/search/?q=bootstrap-iconpicker)
-[![Release](http://img.shields.io/github/release/victor-valencia/bootstrap-iconpicker.svg)](https://github.com/victor-valencia/bootstrap-iconpicker/releases)
-[![Tag](http://img.shields.io/github/tag/victor-valencia/bootstrap-iconpicker.svg)](https://github.com/victor-valencia/bootstrap-iconpicker/tags)
-[![Issues](http://img.shields.io/github/issues/victor-valencia/bootstrap-iconpicker.svg)](https://github.com/victor-valencia/bootstrap-iconpicker/issues?q=is%3Aopen)
-[![Issues](http://img.shields.io/badge/license-MIT-red.svg)](https://github.com/victor-valencia/bootstrap-iconpicker/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/DJStarCOM/bootstrap-iconpicker-latest.svg?branch=master)](https://travis-ci.org/DJStarCOM/bootstrap-iconpicker-latest)
+[![Code Climate](https://codeclimate.com/github/DJStarCOM/bootstrap-iconpicker-latest/badges/gpa.svg)](https://codeclimate.com/github/DJStarCOM/bootstrap-iconpicker-latest)
+[![npm](http://img.shields.io/npm/v/bootstrap-iconpicker-latest.svg)](https://npmjs.org/package/bootstrap-iconpicker-latest)
+[![Bower](http://img.shields.io/bower/v/bootstrap-iconpicker-latest.svg)](http://bower.io/search/?q=bootstrap-iconpicker-latest)
+[![Release](http://img.shields.io/github/release/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/releases)
+[![Tag](http://img.shields.io/github/tag/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/tags)
+[![Issues](http://img.shields.io/github/issues/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/issues?q=is%3Aopen)
+[![Issues](http://img.shields.io/badge/license-MIT-red.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/blob/master/LICENSE)
 
-# [Bootstrap-Iconpicker v1.10.0](http://victor-valencia.github.io/bootstrap-iconpicker)
+# [Bootstrap-Iconpicker v1.11.0](https://djstarcom.github.io/bootstrap-iconpicker-latest/)
 ![Iconpicker](../bootstrap-iconpicker_4x.png)
 
 A simple iconpicker for Bootstrap 3.x and 4.x.

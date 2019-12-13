@@ -1,10 +1,10 @@
 /*!========================================================================
-* File: bootstrap-iconpicker.js v1.10.0 by @victor-valencia
-* https://victor-valencia.github.com/bootstrap-iconpicker
+* File: bootstrap-iconpicker.js v1.11.0 by @victor-valencia
+* https://github.com/DJStarCOM/bootstrap-iconpicker-lates
 * ========================================================================
-* Copyright 2013-2019 Victor Valencia Rico.
+* Copyright 2019-2019 Stanislav Tsepeniuk.
 * Licensed under MIT license.
-* https://github.com/victor-valencia/bootstrap-iconpicker/blob/master/LICENSE
+* https://github.com/DJStarCOM/bootstrap-iconpicker-latest/blob/master/LICENSE
 * ========================================================================
 */
 
@@ -26,7 +26,7 @@
 
     // ICONPICKER VERSION
     // ==============================
-    Iconpicker.VERSION = '1.10.0';
+    Iconpicker.VERSION = '1.11.0';
 
     // ICONPICKER ICONSET_EMPTY
     // ==============================

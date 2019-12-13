@@ -1,13 +1,13 @@
-[![Build Status](https://travis-ci.org/victor-valencia/bootstrap-iconpicker.svg?branch=master)](https://travis-ci.org/victor-valencia/bootstrap-iconpicker)
-[![Code Climate](https://codeclimate.com/github/victor-valencia/bootstrap-iconpicker/badges/gpa.svg)](https://codeclimate.com/github/victor-valencia/bootstrap-iconpicker)
-[![npm](http://img.shields.io/npm/v/bootstrap-iconpicker.svg)](https://npmjs.org/package/bootstrap-iconpicker)
-[![Bower](http://img.shields.io/bower/v/bootstrap-iconpicker.svg)](http://bower.io/search/?q=bootstrap-iconpicker)
-[![Release](http://img.shields.io/github/release/victor-valencia/bootstrap-iconpicker.svg)](https://github.com/victor-valencia/bootstrap-iconpicker/releases)
-[![Tag](http://img.shields.io/github/tag/victor-valencia/bootstrap-iconpicker.svg)](https://github.com/victor-valencia/bootstrap-iconpicker/tags)
-[![Issues](http://img.shields.io/github/issues/victor-valencia/bootstrap-iconpicker.svg)](https://github.com/victor-valencia/bootstrap-iconpicker/issues?q=is%3Aopen)
-[![Issues](http://img.shields.io/badge/license-MIT-red.svg)](https://github.com/victor-valencia/bootstrap-iconpicker/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/DJStarCOM/bootstrap-iconpicker-latest.svg?branch=master)](https://travis-ci.org/DJStarCOM/bootstrap-iconpicker-latest)
+[![Code Climate](https://codeclimate.com/github/DJStarCOM/bootstrap-iconpicker-latest/badges/gpa.svg)](https://codeclimate.com/github/DJStarCOM/bootstrap-iconpicker-latest)
+[![npm](http://img.shields.io/npm/v/bootstrap-iconpicker-latest.svg)](https://npmjs.org/package/bootstrap-iconpicker-latest)
+[![Bower](http://img.shields.io/bower/v/bootstrap-iconpicker-latest.svg)](http://bower.io/search/?q=bootstrap-iconpicker-latest)
+[![Release](http://img.shields.io/github/release/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/releases)
+[![Tag](http://img.shields.io/github/tag/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/tags)
+[![Issues](http://img.shields.io/github/issues/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/issues?q=is%3Aopen)
+[![Issues](http://img.shields.io/badge/license-MIT-red.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/blob/master/LICENSE)
 
-# [Bootstrap-Iconpicker v1.10.0](http://victor-valencia.github.io/bootstrap-iconpicker)
+# [Bootstrap-Iconpicker v1.11.0](https://djstarcom.github.io/bootstrap-iconpicker-latest/)
 ![Iconpicker](bootstrap-iconpicker_4x.png)
 
 A simple iconpicker for Bootstrap 3.x and 4.x.
@@ -17,7 +17,6 @@ Other icon fonts thats supports: [Elusive Icons](http://press.codes/downloads/el
 
 ## Table of contents
 - [Quick start](#quick-start)
-- [CDN](#cdn)
 - [What's included](#whats-included)
 - [Supported iconset](#supported-iconset)
 - [Documentation and live examples](#documentation-and-live-examples)
@@ -33,19 +32,10 @@ Other icon fonts thats supports: [Elusive Icons](http://press.codes/downloads/el
 
 Several quick start options are available:
 
-- Download the latest release: [![Tag](http://img.shields.io/github/release/victor-valencia/bootstrap-iconpicker.svg)](https://github.com/victor-valencia/bootstrap-iconpicker/archive/v1.10.0.zip).
-- Clone the repo: `git clone https://github.com/victor-valencia/bootstrap-iconpicker.git`.
-- Install with [Bower](http://bower.io): `bower install bootstrap-iconpicker`.
-- Install with [npm](https://www.npmjs.com): `npm install bootstrap-iconpicker`.
-
-## CDN
-
-The [CDN](https://cdnjs.com/libraries/bootstrap-iconpicker) is updated after the release is made public, which means that there is a delay between the publishing of a release and its availability on the CDN. Check the GitHub page for the latest release.
-
-- [https://cdnjs.cloudflare.com/ajax/libs/bootstrap-iconpicker/1.10.0/css/bootstrap-iconpicker.min.css](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-iconpicker/1.10.0/css/bootstrap-iconpicker.min.css)
-- [https://cdnjs.cloudflare.com/ajax/libs/bootstrap-iconpicker/1.10.0/js/bootstrap-iconpicker-iconset-all.min.js](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-iconpicker/1.10.0/js/bootstrap-iconpicker-iconset-all.min.js)
-- [https://cdnjs.cloudflare.com/ajax/libs/bootstrap-iconpicker/1.10.0/js/bootstrap-iconpicker.bundle.min.js](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-iconpicker/1.10.0/js/bootstrap-iconpicker.bundle.min.js)
-- [https://cdnjs.cloudflare.com/ajax/libs/bootstrap-iconpicker/1.10.0/js/bootstrap-iconpicker.min.js](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-iconpicker/1.10.0/js/bootstrap-iconpicker.min.js)
+- Download the latest release: [![Tag](http://img.shields.io/github/release/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/archive/v1.11.0.zip).
+- Clone the repo: `git clone https://github.com/DJStarCOM/bootstrap-iconpicker-latest.git`.
+- Install with [Bower](http://bower.io): `bower install bootstrap-iconpicker-latest`.
+- Install with [npm](https://www.npmjs.com): `npm install bootstrap-iconpicker-latest`.
 
 ### What's included
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
@@ -73,11 +63,11 @@ Files (`bootstrap-iconpicker-iconset-all.min.js`) and (`bootstrap-iconpicker.min
 You can see all suported iconset in [this doc](docs/SUPPORTED.md).
 
 ## Documentation and live examples
-See documentation and live examples here: [http://victor-valencia.github.io/bootstrap-iconpicker](http://victor-valencia.github.io/bootstrap-iconpicker)
+See documentation and live examples here: [http://DJStarCOM.github.io/bootstrap-iconpicker-latest](http://DJStarCOM.github.io/bootstrap-iconpicker-latest)
 
 ## Bugs and feature requests
-Have a bug or a feature request? [Please open a new issue](https://github.com/victor-valencia/bootstrap-iconpicker/issues). Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas Gallagher](https://github.com/necolas/).
-You may use [this JSFiddle](http://jsfiddle.net/victor_valencia/y1q541ar/) as a template for your bug reports.
+Have a bug or a feature request? [Please open a new issue](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/issues). Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas Gallagher](https://github.com/necolas/).
+You may use [this JSFiddle](https://jsfiddle.net/stsepeniuk/uh0c6grk/) as a template for your bug reports.
 
 ## What's next and changelog
 You can see what's next and changelog in [this doc](docs/CHANGELOG.md).
@@ -98,6 +88,7 @@ And constructed with the following guidelines:
 For more information on SemVer, please visit <http://semver.org/>.
 
 ## Author
+@[DJStarCOM](https://github.com/DJStarCOM)
 @[victor-valencia](https://github.com/victor-valencia)
 
 ## Contributors
