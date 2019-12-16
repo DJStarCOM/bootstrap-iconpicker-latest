@@ -1,11 +1,11 @@
 [![Build Status](https://travis-ci.org/DJStarCOM/bootstrap-iconpicker-latest.svg?branch=master)](https://travis-ci.org/DJStarCOM/bootstrap-iconpicker-latest)
 [![Code Climate](https://codeclimate.com/github/DJStarCOM/bootstrap-iconpicker-latest/badges/gpa.svg)](https://codeclimate.com/github/DJStarCOM/bootstrap-iconpicker-latest)
-[![npm](http://img.shields.io/npm/v/bootstrap-iconpicker-latest.svg)](https://npmjs.org/package/bootstrap-iconpicker-latest)
-[![Bower](http://img.shields.io/bower/v/bootstrap-iconpicker-latest.svg)](http://bower.io/search/?q=bootstrap-iconpicker-latest)
-[![Release](http://img.shields.io/github/release/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/releases)
-[![Tag](http://img.shields.io/github/tag/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/tags)
-[![Issues](http://img.shields.io/github/issues/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/issues?q=is%3Aopen)
-[![Issues](http://img.shields.io/badge/license-MIT-red.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/bootstrap-iconpicker-latest.svg)](https://npmjs.org/package/bootstrap-iconpicker-latest)
+[![Bower](https://img.shields.io/bower/v/bootstrap-iconpicker-latest.svg)](https://bower.io/search/?q=bootstrap-iconpicker-latest)
+[![Release](https://img.shields.io/github/release/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/releases)
+[![Tag](https://img.shields.io/github/tag/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/tags)
+[![Issues](https://img.shields.io/github/issues/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/issues?q=is%3Aopen)
+[![Issues](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/blob/master/LICENSE)
 
 # [Bootstrap-Iconpicker v1.11.0](https://djstarcom.github.io/bootstrap-iconpicker-latest/)
 ![Iconpicker](bootstrap-iconpicker_4x.png)
@@ -32,9 +32,9 @@ Other icon fonts thats supports: [Elusive Icons](http://press.codes/downloads/el
 
 Several quick start options are available:
 
-- Download the latest release: [![Tag](http://img.shields.io/github/release/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/archive/v1.11.0.zip).
+- Download the latest release: [![Tag](https://img.shields.io/github/release/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/archive/v1.11.0.zip).
 - Clone the repo: `git clone https://github.com/DJStarCOM/bootstrap-iconpicker-latest.git`.
-- Install with [Bower](http://bower.io): `bower install bootstrap-iconpicker-latest`.
+- Install with [Bower](https://bower.io): `bower install bootstrap-iconpicker-latest`.
 - Install with [npm](https://www.npmjs.com): `npm install bootstrap-iconpicker-latest`.
 
 ### What's included
@@ -63,7 +63,7 @@ Files (`bootstrap-iconpicker-iconset-all.min.js`) and (`bootstrap-iconpicker.min
 You can see all suported iconset in [this doc](docs/SUPPORTED.md).
 
 ## Documentation and live examples
-See documentation and live examples here: [http://DJStarCOM.github.io/bootstrap-iconpicker-latest](http://DJStarCOM.github.io/bootstrap-iconpicker-latest)
+See documentation and live examples here: [https://DJStarCOM.github.io/bootstrap-iconpicker-latest](https://DJStarCOM.github.io/bootstrap-iconpicker-latest)
 
 ## Bugs and feature requests
 Have a bug or a feature request? [Please open a new issue](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/issues). Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas Gallagher](https://github.com/necolas/).
@@ -98,10 +98,10 @@ For more information on SemVer, please visit <http://semver.org/>.
 Licensed under [the MIT license](LICENSE).
 
 ## Used by
-- [Cake Cup](http://cake-cup.herokuapp.com/)
-- [SAPRIGRAT](http://www.saprigrat.mx/)
-- [KML App](http://kml-riegotec.herokuapp.com/)
-- [Opti Riego](http://optiriego.herokuapp.com/)
+- [Cake Cup](https://cake-cup.herokuapp.com/)
+- [SAPRIGRAT](https://www.saprigrat.mx/)
+- [KML App](https://kml-riegotec.herokuapp.com/)
+- [Opti Riego](https://optiriego.herokuapp.com/)
 
 Does your organization use bootstrap-iconpicker?
 Open an issue, and include a link, and you'll be added to the list.
