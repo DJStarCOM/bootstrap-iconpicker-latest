@@ -24,7 +24,10 @@ A simple iconpicker for Bootstrap 3.x and 4.x.
 - [ ] Support for versions (v3.2.0) of [Flag Icons](https://flag-icon-css.lip.is/).
 
 ## Changelog
-- [![v1.11.0](https://img.shields.io/badge/zip-v1.11.0-blue.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/archive/v1.11.0.zip). (2019-Dec-13)    
+- [![v1.12.0](https://img.shields.io/badge/zip-v1.12.0-blue.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/archive/v1.12.0.zip). (2020-Feb-20)
+    - Support versions of Font Awesome Icons 5 (Pro). (v5.12.0_pro)
+
+- [![v1.11.0](https://img.shields.io/badge/zip-v1.11.0-blue.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/archive/v1.11.0.zip). (2019-Dec-13)
     - Add seperate iconsets for FontAwesome 5.
       - This matches the pattern used by the other icon sets: Providing iconClass and iconClassFix and removing them from the icon strings..
     - Add method setVersion

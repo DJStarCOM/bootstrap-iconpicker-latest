@@ -7,7 +7,7 @@
 [![Issues](https://img.shields.io/github/issues/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/issues?q=is%3Aopen)
 [![Issues](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/blob/master/LICENSE)
 
-# [Bootstrap-Iconpicker v1.11.0](https://djstarcom.github.io/bootstrap-iconpicker-latest/)
+# [Bootstrap-Iconpicker v1.12.0](https://djstarcom.github.io/bootstrap-iconpicker-latest/)
 ![Iconpicker](bootstrap-iconpicker_4x.png)
 
 A simple iconpicker for Bootstrap 3.x and 4.x.
@@ -32,7 +32,7 @@ Other icon fonts thats supports: [Elusive Icons](http://press.codes/downloads/el
 
 Several quick start options are available:
 
-- Download the latest release: [![Tag](https://img.shields.io/github/release/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/archive/v1.11.0.zip).
+- Download the latest release: [![Tag](https://img.shields.io/github/release/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/archive/v1.12.0.zip).
 - Clone the repo: `git clone https://github.com/DJStarCOM/bootstrap-iconpicker-latest.git`.
 - Install with [Bower](https://bower.io): `bower install bootstrap-iconpicker-latest`.
 - Install with [npm](https://www.npmjs.com): `npm install bootstrap-iconpicker-latest`.

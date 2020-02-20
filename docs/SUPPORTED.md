@@ -20,7 +20,7 @@ A simple iconpicker for Bootstrap 3.x and 4.x.
 | --- | --- |
 | [Elusive Icons](https://press.codes/downloads/elusive-icons-webfont/) | v2.0.0 (lastest) |
 | [Flag Icons](https://flag-icon-css.lip.is/) | v2.8.0 (lastest) |
-| [Font Awesome Icons](https://fontawesome.io/) | v5.3.1 (lastest), v4.7.0, v4.6.0, v4.5.0, v4.4.0, v4.3.0, v4.2.0, v4.1.0, v4.0.0 |
+| [Font Awesome Icons](https://fontawesome.io/) | v5.12.0 (lastest), v5.3.1, v4.7.0, v4.6.0, v4.5.0, v4.4.0, v4.3.0, v4.2.0, v4.1.0, v4.0.0 |
 | Glyphicons | v3.3.7 (lastest) |
 | [Ionicons](https://ionicons.com/) | v2.0.1 (lastest), v1.5.2 |
 | [Map Icons](https://map-icons.com/) | v2.1.0 (lastest) |

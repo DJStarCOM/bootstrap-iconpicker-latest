@@ -1,8 +1,8 @@
 /*!========================================================================
-* File: bootstrap-iconpicker.js v1.11.0 by @victor-valencia
+* File: bootstrap-iconpicker.js v1.12.0 by @victor-valencia
 * https://github.com/DJStarCOM/bootstrap-iconpicker-lates
 * ========================================================================
-* Copyright 2019-2019 Stanislav Tsepeniuk.
+* Copyright 2019-2020 Stanislav Tsepeniuk.
 * Licensed under MIT license.
 * https://github.com/DJStarCOM/bootstrap-iconpicker-latest/blob/master/LICENSE
 * ========================================================================
@@ -26,7 +26,7 @@
 
     // ICONPICKER VERSION
     // ==============================
-    Iconpicker.VERSION = '1.11.0';
+    Iconpicker.VERSION = '1.12.0';
 
     // ICONPICKER ICONSET_EMPTY
     // ==============================

@@ -1,10 +1,10 @@
 var assert = chai.assert;
 
-describe('Bootstrp-IconPicker v1.11.0', function() {
+describe('Bootstrp-IconPicker v1.12.0', function() {
 
     it('should match current version of plugin', function() {
 
-        assert.equal($.fn.iconpicker.Constructor.VERSION, '1.11.0');
+        assert.equal($.fn.iconpicker.Constructor.VERSION, '1.12.0');
 
     });
 
