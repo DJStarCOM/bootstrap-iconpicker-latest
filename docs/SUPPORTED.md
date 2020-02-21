@@ -7,7 +7,7 @@
 [![Issues](https://img.shields.io/github/issues/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/issues?q=is%3Aopen)
 [![Issues](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/blob/master/LICENSE)
 
-# [Bootstrap-Iconpicker v1.11.0](https://djstarcom.github.io/bootstrap-iconpicker-latest/)
+# [Bootstrap-Iconpicker-Latest v1.12.0](https://djstarcom.github.io/bootstrap-iconpicker-latest/)
 ![Iconpicker](../bootstrap-iconpicker_4x.png)
 
 A simple iconpicker for Bootstrap 3.x and 4.x.

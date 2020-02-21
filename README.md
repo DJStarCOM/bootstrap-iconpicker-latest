@@ -7,7 +7,7 @@
 [![Issues](https://img.shields.io/github/issues/DJStarCOM/bootstrap-iconpicker-latest.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/issues?q=is%3Aopen)
 [![Issues](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/DJStarCOM/bootstrap-iconpicker-latest/blob/master/LICENSE)
 
-# [Bootstrap-Iconpicker v1.12.0](https://djstarcom.github.io/bootstrap-iconpicker-latest/)
+# [Bootstrap-Iconpicker-Latest v1.12.0](https://djstarcom.github.io/bootstrap-iconpicker-latest/)
 ![Iconpicker](bootstrap-iconpicker_4x.png)
 
 A simple iconpicker for Bootstrap 3.x and 4.x.
@@ -41,7 +41,7 @@ Several quick start options are available:
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-bootstrap-iconpicker/
+bootstrap-iconpicker-latest/
 ├── css/
 │   ├── bootstrap-iconpicker.css
 │   ├── bootstrap-iconpicker.min.css

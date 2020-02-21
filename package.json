@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-iconpicker-latest",
   "version": "1.12.0",
-  "homepage": "https://github.com/DJStarCOM/bootstrap-iconpicker-lates",
+  "homepage": "https://github.com/DJStarCOM/bootstrap-iconpicker-latest",
   "author": {
     "name": "Stanislav Tsepeniuk",
     "email": "s.tsepeniuk@gmail.com",
@@ -44,7 +44,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DJStarCOM/bootstrap-iconpicker-lates.git"
+    "url": "https://github.com/DJStarCOM/bootstrap-iconpicker-latest.git"
   },
   "devDependencies": {
     "chai": "^4.1.0",

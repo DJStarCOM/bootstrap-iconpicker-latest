@@ -1,6 +1,6 @@
 var assert = chai.assert;
 
-describe('Bootstrp-IconPicker v1.12.0', function() {
+describe('Bootstrp-IconPicker-Latest v1.12.0', function() {
 
     it('should match current version of plugin', function() {
 
